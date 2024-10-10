@@ -1,5 +1,3 @@
-# Jira Lite
-
 # Jira Lite: Simplifying Collaboration, Amplifying Productivity
 
 <p align="center">
@@ -90,5 +88,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ---
 
 <p align="center">
-  Developed with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
+  Developed with ❤️ by <a href="https://github.com/dhaval-hirpara">Dhaval Hirpara</a>
 </p>

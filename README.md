@@ -1,7 +1,7 @@
 # Jira Lite: Simplifying Collaboration, Amplifying Productivity
 
 <p align="center">
-  <img src="https://your-image-url-here.com/project-logo.png" alt="TaskMaster Pro Logo" width="200">
+  <img src="images/project-logo.png" alt="Jira Lite" width="200">
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/taskmaster-pro.git
+   git clone https://github.com/dhaval-hirpara/jira-lite.git
    ```
 2. Install frontend dependencies
    ```

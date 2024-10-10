@@ -70,8 +70,10 @@
 ## Screenshots
 
 <p align="center">
-  <img src="images/homepage.png" alt="Home Page" width="45%">
-  <img src="images/project-dashboard.png" alt="Project Dashboard" width="45%">
+  <img src="images/homepage.png" alt="Home Page" width="500">
+</p>
+<p>
+  <img src="images/project-dashboard.png" alt="Project Dashboard" width="500">
 </p>
 
 ## Future Enhancements
